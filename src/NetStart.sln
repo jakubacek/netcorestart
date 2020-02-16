@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web.Mvc", "Web.Mvc\Web.Mvc.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web.Api", "Web.Api\Web.Api.csproj", "{7587CC70-B661-4CE6-8530-E5D26B084C42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web.React", "WebApplication1\Web.React.csproj", "{3F87AD98-98BB-4D8D-A46C-CCA9E66B4B72}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web.React", "Web.React\Web.React.csproj", "{3F87AD98-98BB-4D8D-A46C-CCA9E66B4B72}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Empty", "Empty\Empty.csproj", "{9FBBCA26-567D-42DA-B797-C40EBFF71F9C}"
 EndProject
